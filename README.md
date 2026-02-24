@@ -77,30 +77,16 @@ supports relaxation and avoids competition with zinc.
 
 ## Weekly Supplement Schedule
 
-  ------------------------------------------------------------------------------
-  | Day | Breakfast | Lunch |  Dinner  |                Bedtime| 
-  ----------- ----------------------- ------- ---------------------- -----------
-  Monday      Vitamin D3 + K2, Omega  Zinc    Turmeric, Ginger and   Magnesium
-              3, Boron                        Black Pepper           Glycinate
-
-  Tuesday     Vitamin D3 + K2, Omega          Turmeric, Ginger and   Magnesium
-              3, Boron                        Black Pepper           Glycinate
-
-  Wednesday   Vitamin D3 + K2, Omega  Zinc    Turmeric, Ginger and   Magnesium
-              3, Boron                        Black Pepper           Glycinate
-
-  Thursday    Vitamin D3 + K2, Omega          Turmeric, Ginger and   Magnesium
-              3, Boron                        Black Pepper           Glycinate
-
-  Friday      Vitamin D3 + K2, Omega  Zinc    Turmeric, Ginger and   Magnesium
-              3, Boron                        Black Pepper           Glycinate
-
-  Saturday    Vitamin D3 + K2, Omega          Turmeric, Ginger and   Magnesium
-              3, Boron                        Black Pepper           Glycinate
-
-  Sunday      Vitamin D3 + K2, Omega  Zinc    Turmeric, Ginger and   Magnesium
-              3, Boron                        Black Pepper           Glycinate
-  ------------------------------------------------------------------------------
+  |Day|Breakfast|Lunch|Dinner|Bedtime|
+  |--|--|--|--|--|
+  |Monday|Vitamin D3 + K2, Omega 3,Boron|Zinc|Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
+  |Monday|Vitamin D3 + K2, Omega 3,Boron||Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
+  |Monday|Vitamin D3 + K2, Omega 3,Boron|Zinc|Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
+  |Monday|Vitamin D3 + K2, Omega 3,Boron||Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
+  |Monday|Vitamin D3 + K2, Omega 3,Boron||Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
+  |Monday|Vitamin D3 + K2, Omega 3,Boron|Zinc|Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
+  |Monday|Vitamin D3 + K2, Omega 3,Boron||Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
+  |Monday|Vitamin D3 + K2, Omega 3,Boron|Zinc|Turmeric, Ginger and Black Pepper|Magnesium Glycinate| 
 
 ------------------------------------------------------------------------
 
