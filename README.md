@@ -2,14 +2,14 @@
 
 ## Introduction
 
-This document outlines your current supplement plan, explains the
-purpose of each supplement, and provides a structured weekly schedule to
-optimise absorption and effectiveness. The aim of this routine is to
-support metabolic health, cardiovascular markers, hormone balance,
-inflammation control, and general wellbeing.
+The aim of this routine is to support my metabolic health, cardiovascular 
+markers, hormone balance, inflammation control, and general wellbeing.
 
 The timing has been structured to avoid mineral competition and to
 improve fat soluble vitamin absorption.
+
+This is not a guide for anyone else, nor is it a recommendation. This is 
+what I take and why. I am not a doctor, seek your own professional advice. 
 
 ------------------------------------------------------------------------
 
