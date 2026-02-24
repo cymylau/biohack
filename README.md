@@ -1,6 +1,4 @@
-# Supplement Plan and Weekly Schedule
-
-## Introduction
+## About
 
 The aim of this routine is to support my metabolic health, cardiovascular 
 markers, hormone balance, inflammation control, and general wellbeing.
