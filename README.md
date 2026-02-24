@@ -78,7 +78,7 @@ supports relaxation and avoids competition with zinc.
 ## Weekly Supplement Schedule
 
   ------------------------------------------------------------------------------
-  Day         Breakfast               Lunch   Dinner                 Bedtime
+  | Day | Breakfast | Lunch |  Dinner  |                Bedtime| 
   ----------- ----------------------- ------- ---------------------- -----------
   Monday      Vitamin D3 + K2, Omega  Zinc    Turmeric, Ginger and   Magnesium
               3, Boron                        Black Pepper           Glycinate
