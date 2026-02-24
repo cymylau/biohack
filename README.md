@@ -80,13 +80,13 @@ supports relaxation and avoids competition with zinc.
   |Day|Breakfast|Lunch|Dinner|Bedtime|
   |--|--|--|--|--|
   |Monday|Vitamin D3 + K2, Omega 3,Boron|Zinc|Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
-  |Monday|Vitamin D3 + K2, Omega 3,Boron||Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
-  |Monday|Vitamin D3 + K2, Omega 3,Boron|Zinc|Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
-  |Monday|Vitamin D3 + K2, Omega 3,Boron||Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
-  |Monday|Vitamin D3 + K2, Omega 3,Boron||Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
-  |Monday|Vitamin D3 + K2, Omega 3,Boron|Zinc|Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
-  |Monday|Vitamin D3 + K2, Omega 3,Boron||Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
-  |Monday|Vitamin D3 + K2, Omega 3,Boron|Zinc|Turmeric, Ginger and Black Pepper|Magnesium Glycinate| 
+  |Tuesday|Vitamin D3 + K2, Omega 3,Boron||Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
+  |Wednesday|Vitamin D3 + K2, Omega 3,Boron|Zinc|Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
+  |Thursday|Vitamin D3 + K2, Omega 3,Boron||Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
+  |Friday|Vitamin D3 + K2, Omega 3,Boron|Zinc|Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
+  |Saturday|Vitamin D3 + K2, Omega 3,Boron||Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
+  |Sunday|Vitamin D3 + K2, Omega 3,Boron|Zinc|Turmeric, Ginger and Black Pepper|Magnesium Glycinate|
+
 
 ------------------------------------------------------------------------
 
